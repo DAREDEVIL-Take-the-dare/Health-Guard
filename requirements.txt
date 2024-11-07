@@ -1,0 +1,5 @@
+pickle
+os
+numpy
+pandas
+streamlit-option-menu
