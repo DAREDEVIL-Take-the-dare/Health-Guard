@@ -218,13 +218,13 @@ elif selected == 'Heart Disease Prediction':
             font-weight: 700;
             color: #c21010;
             }
-        div.st-emotion-cache-jkfxgf p{
+        div.st-emotion-cache-1puwf6r p{
             border-top: 5px;
             font-size: 24px;
             font-weight: 700;
             color: #c21010;
             }
-        div.st-emotion-cache-12h5x7g p{
+        div.st-emotion-cache-p0pjm p{
             font-size: 12px;
             color: #c21009;
             }
