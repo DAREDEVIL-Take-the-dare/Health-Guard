@@ -234,7 +234,7 @@ elif selected == 'Heart Disease Prediction':
         .stButton{
             align: center;
             }
-        .stButton button div.st-emotion-cache-12h5x7g p{
+        .stButton button div.st-emotion-cache-p0pjm p{
             color:#c21010;
             text-align:center;
             font-size:24px;}
